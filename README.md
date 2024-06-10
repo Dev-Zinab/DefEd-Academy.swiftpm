@@ -1,6 +1,6 @@
 # DefED Academy
 
-![Banner](https://github.com/zinab1991/DefEd-Academy.swiftpm/blob/main/DefED.png)
+![Banner](https://github.com/zinab1991/DefEd-Academy.swiftpm/blob/main/heading.png)
 
 ## Table of Contents
 - [About the Project](#about-the-project)
