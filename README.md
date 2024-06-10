@@ -7,8 +7,6 @@
 - [Built With](#built-with)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About the Project
@@ -31,7 +29,13 @@ Driven by a desire for inclusivity, I conceived the idea for an app that empower
 1. Clone the repo
    ```sh
    git clone https://github.com/zinab1991/DefEd-Academy.swiftpm/tree/main
-   
+
+## Usage
+
+Watch the demo video below to see how to use the app:
+
+[![Demo Video](https://github.com/zinab1991/DefEd-Academy.swiftpm/raw/main/DefED.mp4)](https://github.com/zinab1991/DefEd-Academy.swiftpm/raw/main/DefED.mp4)
+
 ## Contact
 
 Zinab - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zainab-bahakeem-5b421849)
